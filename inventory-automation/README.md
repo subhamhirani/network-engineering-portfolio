@@ -1,7 +1,7 @@
 # Inventory Automation (PowerShell)
 
 ## Overview
-This project automates system inventory collection using PowerShell.
+Developed a PowerShell-based automation tool to collect system, network, and hardware inventory across multiple machines, reducing manual effort and improving accuracy
 
 ## Features
 - Collects system name and login ID
