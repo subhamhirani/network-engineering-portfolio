@@ -1,0 +1,6 @@
+No.,Employee Name,Department,System Name,Login ID,Password,WiFi SSID,WiFi Password,Device Type,MAC Address,IP Address,Laptop Company,RAM,Processor,Harddisk/SSD,Storage size,Microsoft Office Version,Antivirus Installed,windows activated,Remark
+1,Rahul Sharma,IT,DESKTOP-IT01,rahul.s,,Office_WiFi,,Desktop,00-1A-2B-3C-4D-5E,192.168.1.10,HP ProDesk 400,8,Intel Core i5-8500,Samsung SSD 860 EVO,256,Microsoft Office 2019,Windows Defender,Yes,Working Fine
+2,Priya Patel,HR,LAPTOP-HR02,priya.p,,Office_WiFi,,Laptop,00-1B-3C-4D-5E-6F,192.168.1.11,Dell Latitude 5400,8,Intel Core i5-8265U,WD HDD,512,Microsoft Office 2016,Quick Heal Antivirus,Yes,No Issues
+3,Amit Verma,Accounts,DESKTOP-ACC03,amit.v,,Office_WiFi,,Desktop,00-1C-4D-5E-6F-7G,192.168.1.12,Lenovo ThinkCentre M720,16,Intel Core i7-9700,Samsung SSD 970 EVO,512,Microsoft Office 2019,Windows Defender,Yes,High Performance
+4,Neha Singh,Sales,LAPTOP-SALES04,neha.s,,Office_WiFi,,Laptop,00-1D-5E-6F-7G-8H,192.168.1.13,HP EliteBook 840,8,Intel Core i5-10210U,Kingston SSD,256,Microsoft Office 365,Avast Antivirus,Yes,Needs Cleanup
+5,Rohit Mehta,Support,DESKTOP-SUP05,rohit.m,,Office_WiFi,,Desktop,00-1E-6F-7G-8H-9I,192.168.1.14,Dell OptiPlex 7070,8,Intel Core i5-9500,WD HDD,1024,Microsoft Office 2019,Windows Defender,Yes,Old System
